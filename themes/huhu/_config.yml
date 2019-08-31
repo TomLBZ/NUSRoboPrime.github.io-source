@@ -72,4 +72,9 @@ baidu_push: true
 #reward
 reward:
   weixin: 'images/mia_wechatpay.png'
-  zhifubao: 'images/mia_alipay.png'
+  zhifubao: 'images/mia_alipay.jpg'
+
+#valine评论
+valine:
+  API_ID: '0bxxRJGqLxaKDo3ERoSarB9R-gzGzoHsz'
+  API_KEY: 'GjiSkWloBScqTJXaJugDPs4s'
