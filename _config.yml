@@ -81,4 +81,4 @@ deploy:
   type: git
   repo: git@github.com:NUSRoboPrime/NUSRoboPrime.github.io.git
   branch: master
-  message: "Updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
+  message: "Updated: {{ now() }}"
